@@ -1,0 +1,51 @@
+
+
+.cabecalho{
+
+
+background-color: rgb(21, 76, 228);
+border: 1px solid;
+text-align: center;
+
+
+}
+
+.navegacao {
+    background-color: rgb(21, 76, 228);
+    border: 1px solid;
+    text-align: center;
+ 
+}
+
+.artigo{
+    background-color: aqua;
+    border: 1px solid;
+    text-align: center;
+    width: 50%;
+    height: 400px;
+    padding: 20px 50px;
+}
+
+.sessao{
+
+    background-color: aqua;
+    border: 1px solid;
+    text-align: center;
+    width: 50%;
+    height: 300px;
+    padding: 10px 30px;
+}
+
+.aside{
+
+    background-color: aqua;
+    border: 1px solid;
+    text-align: center;
+    width: 30%;
+    height: 300px;
+    padding-left: 10px 30px; 
+    margin-left: 30%;
+    position: absolute;
+    bottom: 50px;
+}
+ 
