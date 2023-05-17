@@ -1,0 +1,22 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: aqua;
+}
+
+header
+{
+    background-color: antiquewhite;
+    font-size: smaller;
+    text-align: center;
+    color: brown;
+}
+
+.cabeçalho-imagem {
+    image-orientation: flip;
+    width: 10%;
+    padding: 30px;
+}
